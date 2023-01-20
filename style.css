@@ -1,0 +1,23 @@
+body {
+  margin: 4rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+  display: flex;
+  height: 40vh;
+  margin: 2rem;
+  border-top: rgb(216, 216, 216) solid 1px;
+  padding: 1rem;
+  background-color: whitesmoke;
+}
+
+img {
+  width: 50vw;
+
+  object-fit: contain;
+  object-position: center;
+  margin: 0 1rem;
+  border-right: rgb(216, 216, 216) solid 1px;
+  padding: 1rem;
+}
